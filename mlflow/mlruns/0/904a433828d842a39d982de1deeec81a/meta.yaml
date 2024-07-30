@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programing%20Languages/Python/Machine_Learning/mlflow/mlruns/0/904a433828d842a39d982de1deeec81a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 904a433828d842a39d982de1deeec81a
+run_name: unequaled-roo-642
+run_uuid: 904a433828d842a39d982de1deeec81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722355484253
+status: 1
+tags: []
+user_id: hp

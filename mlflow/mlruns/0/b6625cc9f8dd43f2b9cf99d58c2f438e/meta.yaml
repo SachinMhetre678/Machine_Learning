@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programing%20Languages/Python/Machine_Learning/mlflow/mlruns/0/b6625cc9f8dd43f2b9cf99d58c2f438e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6625cc9f8dd43f2b9cf99d58c2f438e
+run_name: upbeat-sow-469
+run_uuid: b6625cc9f8dd43f2b9cf99d58c2f438e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722355324599
+status: 1
+tags: []
+user_id: hp
