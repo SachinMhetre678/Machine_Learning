@@ -1,0 +1,12 @@
+pip install numpy==1.21
+pip install pandas
+pip install pyarrow
+pip install matplotlib
+pip install altair
+pip install pydeck
+pip install streamlit
+pip install jinja2
+pip install blinker
+pip install typing-extensions
+packaging
+ipykernel
